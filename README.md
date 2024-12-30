@@ -22,4 +22,4 @@ Each page features:
 
 The top 3 songs in each genre.
 The first song is the most popular, and the third song is the third most popular.
-The views are updated every day through the use of a live API.
+The views are updated every day through the use of a live API. 🎸
