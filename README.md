@@ -1,4 +1,4 @@
-# Music-Top20-Tracker
+# Music-Top20-Tracker ♫
 
 Welcome to the Music Top 20 Tracker, a personal project designed to showcase the most popular songs of the past 20 years across multiple platforms. This website highlights the top songs from YouTube, Spotify, and Apple Music in three music genres: Hip-Hop, Country, and R&B.
 
