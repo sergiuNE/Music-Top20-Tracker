@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Spotify - TopMusic</title>
+    <link rel="icon" href="images-videos/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="reset.css">
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+
+<body>
+    <div id="NAME">SPOTIFY ᯤ</div>
+    <select id="genreDropdown" onchange="filterByGenre()">
+        <option value="hiphop">HipHop</option>
+        <option value="country">Country</option>
+        <option value="rnb">R&B</option>
+    </select>
+    <div id="musicContainer"></div>
+    <video autoplay muted loop src="images-videos/city-video.mp4" type="video/mp4"></video> 
+    <section class="header">
+        <nav>
+            <a href="youtube.html"><img src="images-videos/logoMusic.png" width="100" height="200" title="CarSer Home"></a>
+            <div class="nav-links" id="navLinks">
+                <i id="closeMenu" class="fa-solid fa-xmark" onclick="hideMenu()"></i>
+                <ul>
+                    <li><a href="youtube.html">YOUTUBE</a></li>
+                    <li><a href="spotify.html">SPOTIFY</a></li>
+                    <li><a href="apple-music.html">APPLE MUSIC</a></li>
+                </ul>
+            </div>
+            <i id="openMenu" class="fa-solid fa-bars" onclick="showMenu()"></i>
+        </nav>
+    </section>
+	<script src="JavaScript.js"></script>
+    <script src="API.js"></script>  
+</body>
+</html>
