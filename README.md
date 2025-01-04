@@ -20,6 +20,6 @@ spotify.html: Shows the top 3 popular songs on Spotify for each genre.
 apple-music.html: Lists the top 3 popular songs on Apple Music for each genre.
 Each page features:
 
-The top 3 songs in each genre.
+The top 3 songs in each genre. 🎧
 The first song is the most popular, and the third song is the third most popular.
 The views are updated every day through the use of a live API. 🎸
