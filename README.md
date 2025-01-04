@@ -15,10 +15,10 @@ Apple Music: Shows the title, views, artist, and thumbnail for the track.
 Pages
 The website includes three main HTML pages:
 
-youtube.html: Displays the top 3 popular songs on YouTube for each genre.
-spotify.html: Shows the top 3 popular songs on Spotify for each genre.
-apple-music.html: Lists the top 3 popular songs on Apple Music for each genre.
-Each page features:
+youtube.html: Displays the top 3 popular songs on YouTube for each genre. <br>
+spotify.html: Shows the top 3 popular songs on Spotify for each genre. <br>
+apple-music.html: Lists the top 3 popular songs on Apple Music for each genre. <br>
+Each page features: <br>
 
 The top 3 songs in each genre. 🎧
 The first song is the most popular, and the third song is the third most popular.
