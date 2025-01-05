@@ -1,6 +1,7 @@
 ### Music-Top3-Tracker ♫🎶
 
-Welcome to **Music Top 3 Tracker**, a personal project designed to showcase the most popular songs from the last month across three major music platforms: **YouTube**, **Spotify**, and **Apple Music**. Explore the top songs in three iconic genres: **Hip-Hop**, **Country**, and **R&B**.
+Welcome to **Music Top 3 Tracker**, a personal project designed to showcase the most popular songs from the last month across three major music platforms: **YouTube**, **Spotify**, and **Apple Music**. <br>
+Explore the top songs in three iconic genres: **Hip-Hop**, **Country**, and **R&B**.
 
 ---
 
