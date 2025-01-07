@@ -1,4 +1,4 @@
-### Music-Top3-Tracker ♫🎶
+### Music-Top3-Tracker ♫
 
 Welcome to **Music Top 3 Tracker**, a personal project designed to showcase the most popular songs from the last month across three major music platforms: **YouTube**, **Spotify**, and **Apple Music**. <br>
 Explore the top songs in three iconic genres: **Hip-Hop**, **Country**, and **R&B**.
@@ -39,6 +39,6 @@ The site consists of three main HTML pages, each dedicated to a specific platfor
 
 ---
 
-### **🎶 What to Expect**
+### **What to Expect**
 - **Top 3 Songs per Genre**: The **#1 song** is the most popular, and the **#3 song** is the third most popular.  
 - **Dynamic Updates**: View counts and song details are updated **daily** through a live API, ensuring accuracy and freshness.
