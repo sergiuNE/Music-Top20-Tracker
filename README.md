@@ -12,9 +12,9 @@ Stay up-to-date with dynamically updated statistics! The website displays real-t
 
 #### **🎸 Genres Covered**
 Discover the top hits in:
-- **Hip-Hop** 🔥
-- **Country** 🎻
-- **R&B** 🎷
+- **Hip-Hop** 
+- **Country** 
+- **R&B** 
 
 #### **🎧 Platform Specifics**
 Each platform page includes:
