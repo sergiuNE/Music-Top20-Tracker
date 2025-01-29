@@ -5,7 +5,7 @@ Explore the top songs in three iconic genres: **Hip-Hop**, **Country**, and **R&
 
 ---
 
-### **🌟 Features**
+### **Features**
 
 #### **🎵 Real-Time Views**
 Stay up-to-date with dynamically updated statistics! The website displays real-time views for the most popular songs on YouTube, Spotify, and Apple Music, refreshed daily using API integration.
